@@ -1,0 +1,22 @@
+lib: [
+  "_build/install/default/lib/random_str/META"
+  "_build/install/default/lib/random_str/dune-package"
+  "_build/install/default/lib/random_str/librandom_str_stubs.a"
+  "_build/install/default/lib/random_str/opam"
+  "_build/install/default/lib/random_str/random_str.a"
+  "_build/install/default/lib/random_str/random_str.cma"
+  "_build/install/default/lib/random_str/random_str.cmi"
+  "_build/install/default/lib/random_str/random_str.cmt"
+  "_build/install/default/lib/random_str/random_str.cmx"
+  "_build/install/default/lib/random_str/random_str.cmxa"
+  "_build/install/default/lib/random_str/random_str.ml"
+]
+libexec: [
+  "_build/install/default/lib/random_str/random_str.cmxs"
+]
+doc: [
+  "_build/install/default/doc/random_str/LICENSE"
+]
+stublibs: [
+  "_build/install/default/lib/stublibs/dllrandom_str_stubs.so"
+]
