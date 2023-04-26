@@ -1,0 +1,3 @@
+(test
+ (name Test_Random_Str)
+ (libraries random_str))
